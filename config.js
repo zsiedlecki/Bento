@@ -72,20 +72,20 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Canvas',
-			icon: 'trello',
+			icon: 'file-bar-chart-2',
 			link: 'https://canvas.northwestern.edu/',
 		},
 		{
 			id: '5',
-			name: 'Mail',
+			name: 'Gmail',
 			icon: 'mail',
 			link: 'https://mail.google.com/mail/u/0/',
 		},
 		{
 			id: '6',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Google Drive',
+			icon: 'archive',
+			link: 'https://drive.google.com/drive/u/0/my-drive',
 		},
 		
 	],
