@@ -59,34 +59,35 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/',
+			name: 'Reddit',
+			icon: 'bot',
+			link: 'https://reddit.com',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
-		{
-			id: '4',
 			name: 'Github',
 			icon: 'github',
 			link: 'https://github.com/',
 		},
 		{
+			id: '4',
+			name: 'Canvas',
+			icon: 'trello',
+			link: 'https://canvas.northwestern.edu/',
+		},
+		{
 			id: '5',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://mail.google.com/mail/u/0/',
+		},
+		{
+			id: '6',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
-		{
-			id: '6',
-			name: 'Reddit',
-			icon: 'bot',
-			link: 'https://reddit.com',
-		},
+		
 	],
 
 	secondButtonsContainer: [
