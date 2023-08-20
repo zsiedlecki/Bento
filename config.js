@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Google',
-			icon: 'search',
-			link: 'https://google.com/',
-		},
-		{
-			id: '6',
 			name: 'Gmail',
 			icon: 'mail',
 			link: 'https://mail.google.com/mail/u/0/',
+		},
+		{
+			id: '6',
+			name: 'Google',
+			icon: 'search',
+			link: 'https://google.com/',
 		},
 	],
 
