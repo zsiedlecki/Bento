@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Google',
-			icon: 'search',
-			link: 'https://google.com/',
+			name: 'Apple Msuic',
+			icon: 'music',
+			link: 'https://beta.music.apple.com/',
 		},
 	],
 
@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'coffee',
 			id: '1',
 			links: [
 				{
