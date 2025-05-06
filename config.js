@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://youtube.com/',
+			link: 'https://youtube.com',
 		},
 		{
 			id: '2',
@@ -73,19 +73,19 @@ const CONFIG = {
 			id: '4',
 			name: 'Canvas',
 			icon: 'file-bar-chart-2',
-			link: 'https://canvas.northwestern.edu/',
+			link: 'https://canvasconnect.its.virginia.edu',
 		},
 		{
 			id: '5',
 			name: 'Gmail',
 			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/',
+			link: 'https://mail.google.com/mail/u/0',
 		},
 		{
 			id: '6',
 			name: 'Apple Msuic',
 			icon: 'music',
-			link: 'https://beta.music.apple.com/',
+			link: 'https://beta.music.apple.com',
 		},
 	],
 
@@ -100,7 +100,7 @@ const CONFIG = {
 			id: '2',
 			name: 'twitter',
 			icon: 'twitter',
-			link: 'https://twitter.com/',
+			link: 'https://twitter.com',
 		},
 		{
 			id: '3',
@@ -112,19 +112,19 @@ const CONFIG = {
 			id: '4',
 			name: 'Amazon',
 			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			link: 'https://amazon.com',
 		},
 		{
 			id: '5',
 			name: 'Hashnode',
 			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			link: 'https://hashnode.com',
 		},
 		{
 			id: '6',
 			name: 'Figma',
 			icon: 'figma',
-			link: 'https://figma.com/',
+			link: 'https://figma.com',
 		},
 	],
 
