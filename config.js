@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Canvas',
 			icon: 'file-bar-chart-2',
-			link: 'https://canvasconnect.its.virginia.edu',
+			link: 'https://canvas.its.virginia.edu',
 		},
 		{
 			id: '5',
@@ -83,7 +83,7 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Apple Msuic',
+			name: 'Apple Music',
 			icon: 'music',
 			link: 'https://beta.music.apple.com',
 		},
